@@ -1,0 +1,5 @@
+C:\Users\SAHIL\source\repos\finaldockerdemo\finaldockerdemo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\SAHIL\source\repos\finaldockerdemo\finaldockerdemo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\SAHIL\source\repos\finaldockerdemo\finaldockerdemo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\SAHIL\source\repos\finaldockerdemo\finaldockerdemo\obj\Debug\netcoreapp2.1\finaldockerdemo.AssemblyInfoInputs.cache
+C:\Users\SAHIL\source\repos\finaldockerdemo\finaldockerdemo\obj\Debug\netcoreapp2.1\finaldockerdemo.AssemblyInfo.cs
